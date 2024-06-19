@@ -1,20 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "Advanced Econometrics"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Postgraduate course"
+venue: "Teaching Assistant for Prof. Wang Shaoping, Huazhong University of Science and Technology"
+date: Autumn of 2022, 2023
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
