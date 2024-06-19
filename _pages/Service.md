@@ -7,11 +7,3 @@ author_profile: true
 ## Anoymous Referee
 ___
 Emerging Markets and Finance and Trade, Economic Analysis and Policy, Singapore Economic Review
-
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
