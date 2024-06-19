@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* **Wang Xinyu**, Huang Zaixin*. The Estimation and Backtesting of Expected Shortfall Based on SGT Distribution with Application to Chinese Stock Markets[J]. Journal of Applied Statistics and Management (in Chinese), 2020, 39(02): 341 - 353. [[Paper]](https://github.com/files/sgt.pdf)
