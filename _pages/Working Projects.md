@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Working Projects"
-permalink: /Working Projects/
+title: "Working Project"
+permalink: /Working Project/
 author_profile: true
 ---
 
