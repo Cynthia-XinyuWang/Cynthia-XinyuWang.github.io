@@ -5,4 +5,15 @@ permalink: /Working Project/
 author_profile: true
 ---
 
-* 王心语,黄在鑫.基于SGT分布的ES估计,后验分析及在沪深股市中应用[J].数理统计与管理, 2020(2):13. [Paper](../assets/Paper1.pdf)
+# Working Paper
+---
+* **The Applicability of Prominent Factor Models in the Evolving Chinese Stock Market**, with Wang Shaoping, Feng Hao, ***Submitted***.
+
+* **Portfolio Efficiency Test under Non-normality and Conditional Heteroskedasticity**, with Wang Shaoping, Peng Bin, ***Under Review***.
+
+* **The Dual Role of Sentiment on Housing Prices in China**, with Fang Zhuangzhi, Wang Zhenxin, ***Revise & Resubmit***.
+
+# Working in Progress
+---
+* **The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries based on the EGARCH-SGT-Dynamic Copula-CoVaR Model**, with Huang Zaixin, Tong Yu.
+* **The contagion and determinants of the Chinese stock market bubble**, with Feng Hao, Wang Shaoping.
