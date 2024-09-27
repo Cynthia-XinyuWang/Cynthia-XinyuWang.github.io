@@ -5,14 +5,14 @@ permalink: /Working Project/
 author_profile: true
 ---
 
-
-## Working Paper
+## Working Papers
 ---
 * **The Applicability of Prominent Factor Models in the Evolving Chinese Stock Market**, with Wang Shaoping, Feng Hao, ***Submitted***.
 
 * **Portfolio Efficiency Test under Non-normality and Conditional Heteroskedasticity**, with Wang Shaoping, Peng Bin, ***Under Review***.
 
 * **The Dual Role of Sentiment on Housing Prices in China**, with Fang Zhuangzhi, Wang Zhenxin, ***Revise & Resubmit***.
+
 
 ## Working in Progress
 ---
