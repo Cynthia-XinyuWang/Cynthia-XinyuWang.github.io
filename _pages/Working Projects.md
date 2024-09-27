@@ -5,6 +5,9 @@ permalink: /Working Project/
 author_profile: true
 ---
 
+
+
+
 # Working Paper
 ---
 * **The Applicability of Prominent Factor Models in the Evolving Chinese Stock Market**, with Wang Shaoping, Feng Hao, ***Submitted***.
