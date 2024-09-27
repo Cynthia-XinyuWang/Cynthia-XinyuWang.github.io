@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Conferences
+## Conferences
 ---
 * **The Theory and Application of Big Data Econometrics Symposium**, Nov 2023  
   *Wuhan University, Wuhan, China*
@@ -14,7 +14,7 @@ author_profile: true
   *Huazhong University of Science and Technology, Wuhan, China*  
   **Awarded: Best Paper**
 
-# Seminars
+## Seminars
 ---
 * **Jingshi Learning Centre**  
   *The Dual Role of Sentiment on Housing Prices in China*, Jun 2021  
