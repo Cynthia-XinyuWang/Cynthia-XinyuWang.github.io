@@ -11,9 +11,9 @@ author_profile: true
 **Autumn 2022, 2023 | M.Phil. Courses**  
 *Teaching Assistant for Prof. Wang Shaoping*  
 - Delivered lectures on:
-  - Asymptotic properties for unit root processes [[Slides]](/files/unit%20root%20topic.pdf)
+  - Asymptotic properties for unit root processes [[Slides]](/files/unit root topic.pdf)
   - Empirical asset pricing [[Slides]](/files/FF5_with_Bubbles.pdf)
-  - Theories and implications of dependent decomposition [[Slides]](/files/dependent%20cycle.pdf)
+  - Theories and implications of dependent decomposition [[Slides]](/files/我国货币政策逆周期调节的实证证据与建议.pdf)
 
 ## Anonymous Referee
 ---
