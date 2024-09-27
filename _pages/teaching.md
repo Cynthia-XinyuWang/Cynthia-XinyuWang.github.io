@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching
 ---
-### Advanced Econometrics
+## Advanced Econometrics
 **Autumn 2022, 2023 | M.Phil. Courses**  
 *Teaching Assistant for Prof. Wang Shaoping*  
 - Delivered lectures on:
