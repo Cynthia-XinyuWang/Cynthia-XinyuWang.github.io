@@ -13,7 +13,7 @@ author_profile: true
 - Delivered lectures on:
   - Asymptotic properties for unit root processes [[Slides]](/files/unit root topic.pdf)
   - Empirical asset pricing [[Slides]](/files/FF5_with_Bubbles.pdf)
-  - Theories and implications of dependent decomposition [[Slides]](/files/我国货币政策逆周期调节的实证证据与建议.pdf)
+  - Theories and empirical applications of dependent decomposition [[Slides]](/files/我国货币政策逆周期调节的实证证据与建议.pdf)
 
 ## Anonymous Referee
 ---
