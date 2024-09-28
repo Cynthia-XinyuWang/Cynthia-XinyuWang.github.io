@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Talks & Seminars"
+title: "Selected Conferences & Seminars"
 permalink: /talks/
 author_profile: true
 ---
