@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is **Xinyu Wang**. I am a PhD Candidate advised by Prof. Shaoping Wang at the School of Economics (SOE), Huazhong University of Science and Technology. My research interests include financial econometrics, empirical asset pricing, and risk management. 
+Hello, I’m Xinyu Wang, a Ph.D. Candidate in the School of Economics at Huazhong University of Science and Technology, where I am advised by Prof. Shaoping Wang. My research focuses on financial econometrics, empirical asset pricing, and risk management.
 
 You can find my CV here: [Xinyu Wang's CV](../assets/CV_WXY.pdf).
 
-**I'm actively seeking opportunities of a Post doc position starting from the end of 2025.**
+**I am actively seeking postdoctoral opportunities starting in late 2025.**
