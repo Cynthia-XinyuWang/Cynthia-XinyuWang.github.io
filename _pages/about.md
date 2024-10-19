@@ -12,4 +12,4 @@ Hello, I’m Xinyu Wang, a Ph.D. Candidate in the School of Economics at Huazhon
 
 You can find my CV here: [Xinyu Wang's CV](../assets/CV_WXY.pdf).
 
-**I am actively seeking postdoctoral opportunities starting in late 2025.**
+**I am actively seeking postdoctoral opportunities starting in the second half of 2025.**
