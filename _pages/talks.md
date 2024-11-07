@@ -16,12 +16,14 @@ author_profile: true
 
 ## Seminars
 ---
-* **Jingshi Learning Centre**  
-  *The Dual Role of Sentiment on Housing Prices in China*, Jun 2021  
-  *Department of Finance, Central China Normal University, Wuhan, China*
-
 * **Economics Brown Bag Seminar**  
   *The Contagion and Determinants of the Chinese Stock Market Bubble*, Nov 2024  
   *Division of Economics, Nanyang Technological University, Singapore*  
 
 ---
+
+## Invited Talks
+---
+* **Jingshi Learning Centre**  
+  *The Dual Role of Sentiment on Housing Prices in China*, Jun 2021  
+  *Department of Finance, Central China Normal University, Wuhan, China*
