@@ -13,8 +13,6 @@ author_profile: true
 
 * **Portfolio Efficiency Test under Non-normality and Conditional Heteroskedasticity**, with Wang Shaoping, Peng Bin, ***Under Review***.
 
-* **The Dual Role of Sentiment on Housing Prices in China**, with Fang Zhuangzhi, Wang Zhenxin, ***Revised & Resubmitted***.
-
 
 ## Working in Progress
 ---
