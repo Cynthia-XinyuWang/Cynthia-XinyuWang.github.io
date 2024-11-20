@@ -16,9 +16,9 @@ author_profile: true
 
 ## Seminars
 ---
-* **Economics Brown Bag Seminar**  
-  *The Contagion and Determinants of the Chinese Stock Market Bubble*, Nov 2024 [Slide](../assets/How_Do_Sectoral_Sparks_Ignite_Market_Wide_Bubbles____slides_.pdf) 
-  *Division of Economics, Nanyang Technological University, Singapore*  
+* **Economics Brown Bag Seminar**: *The Contagion and Determinants of the Chinese Stock Market Bubble*, [[Slide]](../assets/How_Do_Sectoral_Sparks_Ignite_Market_Wide_Bubbles____slides_.pdf) 
+
+   Nov 2024, *Division of Economics, Nanyang Technological University, Singapore*  
 
 ---
 
