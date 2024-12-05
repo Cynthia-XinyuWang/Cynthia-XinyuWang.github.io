@@ -24,6 +24,6 @@ author_profile: true
 
 ## Invited Talks
 ---
-* **Jingshi Learning Centre**  
-  *The Dual Role of Sentiment on Housing Prices in China*, Jun 2021  
-  *Department of Finance, Central China Normal University, Wuhan, China*
+* **Jingshi Learning Centre**: *The Dual Role of Sentiment on Housing Prices in China*
+
+  Jun 2021, *Department of Finance, Central China Normal University, Wuhan, China*
