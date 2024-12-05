@@ -16,14 +16,14 @@ author_profile: true
 
 ## Seminars
 ---
-* **Economics Brown Bag Seminar**: *The Contagion and Determinants of the Chinese Stock Market Bubble*, [[Slide]](../assets/How_Do_Sectoral_Sparks_Ignite_Market_Wide_Bubbles____slides_.pdf) 
+* **Economics Brown Bag Seminar**: The Contagion and Determinants of the Chinese Stock Market Bubble, [[Slide]](../assets/How_Do_Sectoral_Sparks_Ignite_Market_Wide_Bubbles____slides_.pdf) 
 
-   Nov 2024, *Division of Economics, Nanyang Technological University, Singapore*  
+   Nov 2024, Division of Economics, Nanyang Technological University, Singapore  
 
 ---
 
 ## Invited Talks
 ---
-* **Jingshi Learning Centre**: *The Dual Role of Sentiment on Housing Prices in China*
+* **Jingshi Learning Centre**: The Dual Role of Sentiment on Housing Prices in China
 
-  Jun 2021, *Department of Finance, Central China Normal University, Wuhan, China*
+  Jun 2021, Department of Finance, Central China Normal University, Wuhan, China
