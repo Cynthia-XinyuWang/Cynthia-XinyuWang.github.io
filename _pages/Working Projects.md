@@ -11,9 +11,6 @@ author_profile: true
 
 * **The Applicability of Prominent Factor Models in the Evolving Chinese Stock Market**, with Wang Shaoping, Feng Hao, ***Submitted***.
 
-* **Portfolio Efficiency Test under Non-normality and Conditional Heteroskedasticity**, with Wang Shaoping, Peng Bin, ***Under Review***.
-
-
 ## Working in Progress
 ---
 * **The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries based on the EGARCH-SGT-Dynamic Copula-CoVaR Model**, with Huang Zaixin, Tong Yu.
