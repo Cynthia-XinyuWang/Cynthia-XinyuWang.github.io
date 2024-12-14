@@ -9,7 +9,7 @@ author_profile: true
 ---
 * **A News Sentiment Index and its Asymmetric Effect on Market Liquidity for the Chinese Stock Market**, with Wang Zhenxin, Gao Da, Wang Shaoping, ***Revised & Resubmitted***
 
-* **The Applicability of Prominent Factor Models in the Evolving Chinese Stock Market**, with Wang Shaoping, Feng Hao, ***Submitted***.
+* **Which Factor Model Performs the Best Across Different Chinese Stock Market Conditions**, with Wang Shaoping, Feng Hao, ***Submitted***.
 
 ## Working in Progress
 ---
@@ -19,3 +19,4 @@ author_profile: true
   
 * **The Contagion Map of the Bubble during COVID-19 Pandemic in Chinese Stock Markert**, with Feng Hao.
 
+* **Portfolio Efficiency Test Under Conditional Heteroskedasticity and Non-normality**, with Wang Shaoping
