@@ -19,4 +19,4 @@ author_profile: true
   
 * **The Contagion Map of the Bubble during COVID-19 Pandemic in Chinese Stock Markert**, with Feng Hao.
 
-* **Portfolio Efficiency Test Under Conditional Heteroskedasticity and Non-normality**, with Wang Shaoping
+* **Portfolio Efficiency Test Under Heteroskedasticity and Non-normality**, with Wang Shaoping
