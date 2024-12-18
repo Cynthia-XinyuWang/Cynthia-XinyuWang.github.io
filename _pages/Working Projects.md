@@ -15,7 +15,7 @@ author_profile: true
 ---
 * **The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries based on the EGARCH-SGT-Dynamic Copula-CoVaR Model**, with Huang Zaixin, Tong Yu.
   
-* **The Contagion and Determinants of the Chinese Stock Market Bubble**, with Feng Hao, Wang Shaoping.
+* **The Ripple of Bubble Dynamics: From Influencing Factors of Sectoral Bubbles to Market-Wide Contagion in Chinese Stocks**, with Feng Hao, Wang Shaoping.
   
 * **The Contagion Map of the Bubble during COVID-19 Pandemic in Chinese Stock Markert**, with Feng Hao.
 
