@@ -13,7 +13,7 @@ author_profile: true
 
 ## Working in Progress
 ---
-* **The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries based on the EGARCH-SGT-Dynamic Copula-CoVaR Model**, with Huang Zaixin, Tong Yu.
+* **The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries**, with Huang Zaixin, Tong Yu.
   
 * **The Ripple of Bubble Dynamics: From Influencing Factors of Sectoral Bubbles to Market-Wide Contagion in Chinese Stocks**, with Feng Hao, Wang Shaoping.
   
