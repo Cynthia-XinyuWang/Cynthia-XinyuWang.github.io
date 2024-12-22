@@ -1,6 +1,6 @@
 ---
 title: 'Understanding Asset Prices'
-permalink: /posts/Understanding Asset prices/
+permalink: /posts/2012/08/blog-post-1/
 date: 2024.12.22
 ---
 
