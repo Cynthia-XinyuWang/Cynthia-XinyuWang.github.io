@@ -1,8 +1,5 @@
----
-title: 'Understanding Asset Prices'
-permalink: /posts/2012/08/blog-post-1/
-date: 2024.12.22
----
+
+# Understanding Asset Prices
 
 If you're stepping into the world of financial econometrics and empirical asset pricing, there’s no better starting point than [the document prepared by the Economic Sciences Prize Committee of the Royal Swedish Academy of Sciences](https://www.nobelprize.org/uploads/2013/10/advanced-economicsciences2013.pdf). This comprehensive work is a masterclass on the transformative contributions of Eugene Fama, Lars Peter Hansen, and Robert Shiller, whose groundbreaking research has redefined how we understand asset prices. The followings are Key Takeaways from the Document:
 
