@@ -23,7 +23,7 @@ In the investment world, factor strategies take on different roles for instituti
 
 * **Career Decision-Making:** By understanding how factors are used differently in various settings, you can better align your learning with your career goals.
 
-* **Mindmap Support:** For ease of comprehension, I've created a [mindmap](https://Cynthia-XinyuWang.github.io/Factor_investment.jpeg) to help you navigate the paper's key ideas.
+* **Mindmap Support:** For ease of comprehension, I've created a [mindmap](https://Cynthia-XinyuWang.github.io/assets/Factor_investment.jpeg) to help you navigate the paper's key ideas.
 
 Factor investing is a dynamic field that thrives on collaboration and new ideas. If you have insights, questions, or alternative perspectives, feel free to share them. Let’s explore this exciting area of finance together.
 
