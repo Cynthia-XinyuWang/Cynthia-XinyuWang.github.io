@@ -5,6 +5,6 @@ permalink: /year-archive/
 author_profile: true
 ---
 
-* [Understanding Factor Investment in an Unified Perspective](../assets/Understanding Factor Investment in an Unified Perspective.md) 
+* [Understanding Factor Investment in an Unified Perspective](https://github.com/Cynthia-XinyuWang.github.io/assets/UnderstandingFactorInvestmentinanUnifiedPerspective.md) 
 
-* [Understanding Asset Prices](../assets/Understanding Asset prices.md) 
+* [Understanding Asset Prices](https://github.com/Cynthia-XinyuWang.github.io/assets/UnderstandingAssetprices.md) 
