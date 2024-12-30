@@ -16,7 +16,11 @@ author_profile: true
 * The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries, with Huang Zaixin, Tong Yu.
   
 * The Ripple of Bubble Dynamics: From Influencing Factors of Sectoral Bubbles to Market-Wide Contagion in Chinese Stocks, with Feng Hao, Wang Shaoping.
+
+  -<font size=1>Presented at NTU Seminar, Singapore, 2024</font>
   
 * Riding the Bubbles, with Feng Hao.
 
 * Portfolio Efficiency Test Under Heteroskedasticity and Non-normality, with Wang Shaoping
+
+  -<font size=1>Presented at Wuhan University, China, 2023</font>
