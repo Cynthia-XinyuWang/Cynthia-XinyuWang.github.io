@@ -17,10 +17,10 @@ author_profile: true
   
 * The Ripple of Bubble Dynamics: From Influencing Factors of Sectoral Bubbles to Market-Wide Contagion in Chinese Stocks, with Feng Hao, Wang Shaoping.
 
-  -<font size=1>Presented at NTU Seminar, Singapore, 2024</font>
+  -<font size=2>Presented at NTU Seminar, Singapore, 2024</font>
   
 * Riding the Bubbles, with Feng Hao.
 
 * Portfolio Efficiency Test Under Heteroskedasticity and Non-normality, with Wang Shaoping
 
-  -<font size=1>Presented at Wuhan University, China, 2023</font>
+  -<font size=2>Presented at Wuhan University, China, 2023</font>
