@@ -7,15 +7,13 @@ author_profile: true
 
 ## Working Papers
 ---
-* A News Sentiment Index and its Asymmetric Effect on Market Liquidity for the Chinese Stock Market, with Wang Zhenxin, Gao Da, Wang Shaoping, ***Revised & Resubmitted***
-
 * Which Factor Model Performs the Best Across Different Chinese Stock Market Conditions, with Wang Shaoping, Feng Hao, ***Submitted***.
 
 ## Working in Progress
 ---
 * Digesting Anomalies Across Different Chinese Stock Market Conditions, with Wang Shaoping.
 
-* The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries, with Huang Zaixin, Tong Yu.
+* The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries, with Huang Zaixin, Tong Yu. [Paper](../Asset/Too_Connected_to_Fail.pdf)
   
 * The Ripple of Bubble Dynamics: From Influencing Factors of Sectoral Bubbles to Market-Wide Contagion in Chinese Stocks, with Feng Hao, Wang Shaoping.
 
