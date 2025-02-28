@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* Wang Zhenxin, Gao Da, **Wang Xinyu**, Wang Shaoping*. A news sentiment index and its asymmetric effect on market liquidity for the Chinese stock market. Emerging Markets Finance and Trade, forthcoming.
 
 * **Wang Xinyu**, Fang Zhuangzhi*, Wang Zhenxin. The dual role of sentiment on housing prices in China. International Review of Economics & Finance, 2025, 97: 103732. [Paper](../assets/The dual role of sentiment on housing prices in China.pdf)
 
