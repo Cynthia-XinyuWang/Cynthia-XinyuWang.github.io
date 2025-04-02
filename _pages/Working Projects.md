@@ -18,9 +18,7 @@ author_profile: true
 
 * The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries, with Huang Zaixin, Tong Yu. 
   
-
-  
-* Riding the Bubbles, with Feng Hao.
+* How to Effectively Ride Bubbles? Evidence from Real-time Sector Trading in Chinese Stock Market, with Feng Hao.
 
 * Portfolio Efficiency Test Under Heteroskedasticity and Non-normality, with Wang Shaoping.
 
