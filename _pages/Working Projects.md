@@ -16,6 +16,8 @@ author_profile: true
 
 ## Working in Progress
 ---
+* Wavelet-based Estimation of Heteroskedasticity and Autocorrelation Consistent Covariance Matrices, with Wang Shaoping.
+
 * Digesting Anomalies Across Different Chinese Stock Market Conditions, with Wang Shaoping.
 
 * The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries, with Huang Zaixin, Tong Yu. 
