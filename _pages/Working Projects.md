@@ -12,16 +12,17 @@ author_profile: true
 * The Ripple of Bubble Dynamics: From Influencing Factors of Sectoral Bubbles to Market-Wide Contagion in Chinese Stocks, with Wang Shaoping, Feng Hao, ***Submitted***.
 
   -<font size=3>Presented at NTU Brown Bag Seminar, Singapore, 2024</font>
+  
 * Which Factor Model Performs the Best Across Different Chinese Stock Market Conditions, with Wang Shaoping, Feng Hao, ***Submitted***.
 
 ## Working in Progress
 ---
-* Wavelet-based Estimation of Heteroskedasticity and Autocorrelation Consistent Covariance Matrices, with Wang Shaoping.
+* Wavelet-based Estimation of Heteroskedasticity and Autocorrelation Consistent Covariance Matrices, with Wang Shaoping, Wang Zhenxin.
 
-* Digesting Anomalies Across Different Chinese Stock Market Conditions, with Wang Shaoping.
+* Digesting Anomalies Across Different Chinese Stock Market Conditions, with Feng Hao.
 
 * The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries, with Huang Zaixin, Tong Yu. 
 
-* Portfolio Efficiency Test Under Heteroskedasticity and Non-normality, with Wang Shaoping.
+* Portfolio Efficiency Test Under Heteroskedasticity, with Wang Shaoping, Wang Zhenxin.
 
   -<font size=3>Presented at Wuhan University, China, 2023</font>
