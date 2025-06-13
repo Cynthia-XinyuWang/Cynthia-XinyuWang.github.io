@@ -20,3 +20,5 @@ author_profile: true
 * Estimation of Heteroskedasticity and Autocorrelation Consistent Covariance Matrices, with Wang Shaoping, Wang Zhenxin.
 
 * Too Connected to Fail: The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries, with Huang Zaixin, Xia Junzhe, Tong Yu.
+
+* Uncertainty, Financial Friction, and housing market dynamics.
