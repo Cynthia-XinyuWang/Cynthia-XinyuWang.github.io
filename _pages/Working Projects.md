@@ -17,12 +17,6 @@ author_profile: true
 
 ## Working in Progress
 ---
-* Wavelet-based Estimation of Heteroskedasticity and Autocorrelation Consistent Covariance Matrices, with Wang Shaoping, Wang Zhenxin.
+* Estimation of Heteroskedasticity and Autocorrelation Consistent Covariance Matrices, with Wang Shaoping, Wang Zhenxin.
 
-* Digesting Anomalies Across Different Chinese Stock Market Conditions, with Feng Hao.
-
-* The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries, with Huang Zaixin, Tong Yu. 
-
-* Portfolio Efficiency Test Under Heteroskedasticity, with Wang Shaoping, Wang Zhenxin.
-
-  -<font size=3>Presented at Wuhan University, China, 2023</font>
+* Too Connected to Fail: The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries, with Huang Zaixin, Xia Junzhe, Tong Yu.
