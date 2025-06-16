@@ -19,6 +19,6 @@ author_profile: true
 ---
 * Robust Asset Pricing Tests under Unconditional Heteroskedasticity and Autocorrelation, with Wang Shaoping, Wang Zhenxin.
 
-* Too Connected to Fail: The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries, with Huang Zaixin, Xia Junzhe, Tong Yu.
+* Too Connected to Fail: The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries, with Huang Zaixin, Xia Junzhe.
 
 * Uncertainty, Financial Friction, and housing market dynamics.
