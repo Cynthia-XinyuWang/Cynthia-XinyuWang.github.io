@@ -17,7 +17,7 @@ author_profile: true
 
 ## Working in Progress
 ---
-* Robust Asset Pricing Tests under Unconditional Heteroskedasticity and Autocorrelation, with Wang Shaoping, Wang Zhenxin.
+* Robust Asset Pricing Tests under Unconditional Heteroskedasticity and Autocorrelation: Revisiting the Factor Zoo, with Wang Shaoping, Wang Zhenxin.
 
 * Too Connected to Fail: The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries, with Huang Zaixin, Xia Junzhe.
 
