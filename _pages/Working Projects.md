@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 ---
-* How to Effectively Ride Bubbles? Evidence from Real-time Sector Trading in Chinese Stock Market, with Feng Hao, Wei Xinpei, ***Submitted***. 
+* How to Effectively Ride Bubbles? Evidence from Real-time Sector Trading in Chinese Stock Market, with Feng Hao, Wei Xinpei, ***Under Review***. 
 
 * Influencing Factors of SectoralBubbles and its Contagion to Market in Chinese Stocks, with Wang Shaoping, Feng Hao, ***Under Review***.
 
