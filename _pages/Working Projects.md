@@ -19,6 +19,10 @@ author_profile: true
 ---
 * Robust Asset Pricing Tests under Unconditional Heteroskedasticity and Autocorrelation: Revisiting the Factor Zoo, with Wang Shaoping, Wang Zhenxin.
 
+* Digesting Anomalies Under Different Market Conditions.
+
 * Too Connected to Fail: The Extreme Risk Spillover Effect from the Real Estate Industry to the Real Industries, with Huang Zaixin, Xia Junzhe.
 
-* Uncertainty, Financial Friction, and housing market dynamics.
+* Uncertainty, Financial Friction, and Housing Market Dynamics.
+
+* Portfolio Efficiency Test Under Heteroskedasticity.
