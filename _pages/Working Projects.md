@@ -18,7 +18,8 @@ author_profile: true
 ## Working in Progress
 ---
 * Robust Asset Pricing Tests under Unconditional Heteroskedasticity and Autocorrelation: Revisiting the Factor Zoo, with Wang Shaoping, Wang Zhenxin.
-   -<font size=3>Presented at 2025 ICES, Harbin, China, 2025</font>
+
+   -<font size=3>Presented at 2nd ICES, Harbin, China, 2025</font>
 
 * Digesting Anomalies Under Different Market Conditions.
 
@@ -27,3 +28,5 @@ author_profile: true
 * Uncertainty, Financial Friction, and Housing Market Dynamics.
 
 * Portfolio Efficiency Test Under Heteroskedasticity.
+
+   -<font size=3>Presented at 3rd BDETA conference, Wuhan, China, 2025</font>
