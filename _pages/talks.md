@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conferences
 ---
-* The 2025 Harbin International Conference on Econometrics and Statistics, July 2025, Harbin, China, [[Slides]](../assets/HAR_t_slides.pdf)
+* The 2nd International Conference on Econometrics and Statistics, July 2025, Harbin, China, [[Slides]](../assets/HAR_t_slides.pdf)
 
 * The 3rd "Big Data Econometric Theory and Application" seminar, Nov 2023, Wuhan, China
 
