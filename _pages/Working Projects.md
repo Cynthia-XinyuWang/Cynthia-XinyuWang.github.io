@@ -29,4 +29,4 @@ author_profile: true
 
 * Portfolio Efficiency Test Under Heteroskedasticity.
 
-   -<font size=3>Presented at 3rd BDETA conference, Wuhan, China, 2025</font>
+   -<font size=3>Presented at 3rd BDETA conference, Wuhan, China, 2023</font>
