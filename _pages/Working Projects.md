@@ -9,7 +9,7 @@ author_profile: true
 ---
 * How to Effectively Ride Bubbles? Evidence from Real-time Sector Trading in Chinese Stock Market, with Feng Hao, Wei Xinpei, ***Under Review***. 
 
-* Influencing Factors of SectoralBubbles and its Contagion to Market in Chinese Stocks, with Wang Shaoping, Feng Hao, ***Under Review***.
+* Influencing Factors of SectoralBubbles and its Contagion to Market in Chinese Stocks, with Wang Shaoping, Feng Hao, ***Under Revision***.
 
   -<font size=3>Presented at NTU Brown Bag Seminar, Singapore, 2024</font>
   
