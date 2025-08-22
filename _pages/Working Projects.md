@@ -13,7 +13,7 @@ author_profile: true
 
   -<font size=3>Presented at NTU Brown Bag Seminar, Singapore, 2024</font>
   
-* Which Factor Model Performs the Best Across Different Chinese Stock Market Conditions, with Wang Shaoping, Feng Hao, ***Submitted***.
+* Which Factor Model Performs the Best Across Different Chinese Stock Market Conditions, with Wang Shaoping, Feng Hao, ***Under Review***.
 
 ## Working in Progress
 ---
