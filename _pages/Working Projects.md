@@ -15,6 +15,8 @@ author_profile: true
   
 * Which Factor Model Performs the Best Across Different Chinese Stock Market Conditions, with Wang Shaoping, Feng Hao, ***Under Review***.
 
+  -<font size=3>Presented at PBFJ Special Issue Conference, Wuhan, China, 2025</font>
+
 ## Working in Progress
 ---
 * Robust Asset Pricing Tests under Unconditional Heteroskedasticity and Autocorrelation: Revisiting the Factor Zoo, with Wang Shaoping, Wang Zhenxin.
