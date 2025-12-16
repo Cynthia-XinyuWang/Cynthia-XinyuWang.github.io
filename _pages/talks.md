@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conferences
 ---
-* Special Issue Conference of Pacific-Basin Finance Journal on "New Trends in Emerging Financial Markets", December, 2025, Wuhan, China, [[Slides]](../asses/Factor_Model_Slides.pdf)
+* Special Issue Conference of Pacific-Basin Finance Journal on "New Trends in Emerging Financial Markets", December, 2025, Wuhan, China, [[Slides]](../assets/Factor_Model_Slides.pdf)
 
 * The 2nd International Conference on Econometrics and Statistics, July 2025, Harbin, China, [[Slides]](../assets/HAR_t_slides.pdf)
 
