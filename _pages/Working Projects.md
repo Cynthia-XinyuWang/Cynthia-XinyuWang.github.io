@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 ---
-* Quantile detectors for explosive bubbles, with Feng Hao, Wang Shaoping, ***Submitted***.
+* Quantile detectors for explosive bubbles, with Feng Hao, Wang Shaoping, ***Under Revies***.
 
 * How to Effectively Ride Bubbles? Evidence from Real-time Sector Trading in Chinese Stock Market, with Feng Hao, Wei Xinpei, ***Under Review***. 
 
@@ -15,7 +15,7 @@ author_profile: true
 
   -<font size=3>Presented at NTU Brown Bag Seminar, Singapore, 2024</font>
   
-* Comparing Factor Models Across Different Market Regimes: Evidence from China, with Wang Shaoping, Feng Hao, ***Under Revision***.
+* Comparing Factor Models Across Different Market Regimes: Evidence from China, with Wang Shaoping, Feng Hao, ***Revised & Resubmitted***.
 
   -<font size=3>Presented at PBFJ Special Issue Conference, Wuhan, China, 2025</font>
 
