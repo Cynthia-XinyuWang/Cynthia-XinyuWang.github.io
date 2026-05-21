@@ -15,9 +15,6 @@ author_profile: true
 
   -<font size=3>Presented at NTU Brown Bag Seminar, Singapore, 2024</font>
   
-* Comparing Factor Models Across Different Market Regimes: Evidence from China, with Wang Shaoping, Feng Hao, ***Revised & Resubmitted***.
-
-  -<font size=3>Presented at PBFJ Special Issue Conference, Wuhan, China, 2025</font>
 
 ## Working in Progress
 ---
