@@ -4,7 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* **Wang Xinyu**, Wang Shaoping, Feng Hao*. Comparing Factor Models Across Different Market Regimes: Evidence from China. Pacific-Basin Finance Journal, 2026+.
+
+
+* **Wang Xinyu**, Wang Shaoping, Feng Hao*. Comparing factor models across different market regimes: Evidence from China. Pacific-Basin Finance Journal, 2026, 99: 103234. [Paper](../assets/Comparing factor models across different market regimes.pdf)
 
 * Wang Zhenxin, Gao Da, **Wang Xinyu**, Wang Shaoping*. A News Sentiment Index and Its Asymmetric Effect on Market Liquidity for the Chinese Stock Market. Emerging Markets Finance and Trade, 2025, 61(10): 3128-3143. [Paper](../assets/A News Sentiment Index and Its Asymmetric Effect on Market Liquidity for the Chinese Stock Market.pdf)
 
