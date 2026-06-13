@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+* **Wang Xinyu**, Wang Shaoping, Feng Hao*. Sectoral Bubbles Formation and Contagion Dynamics in China’s Stock Market. Economic Modelling, 2026+.
 
 * **Wang Xinyu**, Wang Shaoping, Feng Hao*. Comparing factor models across different market regimes: Evidence from China. Pacific-Basin Finance Journal, 2026, 99: 103234. [Paper](../assets/Comparing factor models across different market regimes.pdf)
 
