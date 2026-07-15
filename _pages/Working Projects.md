@@ -14,7 +14,7 @@ author_profile: true
 
 ## Working in Progress
 ---
-* The fixed-b limiting distribution and the ERP of HAR tests using an orthonormal series variance estimator under nonstationarity.
+* Fixed-K Orthonormal Series HAR Tests under Nonstationarity
 
    -<font size=3>Presented at 2nd ICES, Harbin, China, 2025</font>
 
