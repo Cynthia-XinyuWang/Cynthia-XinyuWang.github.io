@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 ---
-* Quantile detectors for explosive bubbles, with Feng Hao, Wang Shaoping, ***Under Review***.
+* Quantile detectors for explosive bubbles, with Feng Hao, Wang Shaoping, ***Under Revision**.
 
 * How to Effectively Ride Bubbles? Evidence from Real-time Sector Trading in Chinese Stock Market, with Feng Hao, ***Under Review***. 
   
