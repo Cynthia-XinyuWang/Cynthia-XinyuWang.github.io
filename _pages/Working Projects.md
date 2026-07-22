@@ -9,7 +9,9 @@ author_profile: true
 ---
 * Quantile detectors for explosive bubbles, with Feng Hao, Wang Shaoping, ***Under Revision***.
 
-* How to Effectively Ride Bubbles? Evidence from Real-time Sector Trading in Chinese Stock Market, with Feng Hao, ***Under Review***. 
+* How to Effectively Ride Bubbles? Evidence from Real-time Sector Trading in Chinese Stock Market, with Feng Hao, ***Under Review***.
+
+* Portfolio Efficiency Test Under Conditional Heteroskedasticity and Non-normality, with Wang Shaoping. [Paper]
   
 
 ## Working in Progress
