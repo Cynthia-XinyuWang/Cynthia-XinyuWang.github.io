@@ -12,6 +12,7 @@ author_profile: true
 * How to Effectively Ride Bubbles? Evidence from Real-time Sector Trading in Chinese Stock Market, with Feng Hao, ***Under Review***.
 
 * Portfolio Efficiency Test Under Conditional Heteroskedasticity and Non-normality, with Wang Shaoping. [Paper]()
+  -<font size=3>Presented at 3rd BDETA conference, Wuhan, China, 2023</font>
   
 
 ## Working in Progress
@@ -26,4 +27,4 @@ author_profile: true
 
 * Portfolio Efficiency Test Under Heteroskedasticity.
 
-   -<font size=3>Presented at 3rd BDETA conference, Wuhan, China, 2023</font>
+   
