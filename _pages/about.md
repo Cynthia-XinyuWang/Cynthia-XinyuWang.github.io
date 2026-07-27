@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research fellow at The Hong Kong Polytechnic University. I earned my doctor degree at Huazhong University of Science and Technology, where I am truely fortunate to be advised by Prof. Shaoping Wang. 
+I am a postdoctoral research fellow at The Hong Kong Polytechnic University. I earned my doctor degree at Huazhong University of Science and Technology, where I am truely fortunate to be advised by Prof. Shaoping Wang, and I was also a visiting Ph.D. student at the Nanyang Technological University. 
 
 My research focuses on financial econometrics, empirical asset pricing, and financial risk management. I'm passionate about developing and applying innovative econometrics tools to gain new insights by analyzing financial data, with particular focus on empirical asset pricing and risk management. I’m equally excited to bridge the deep learning technique with the empirical asset pricing, pushing the boundaries of how we predict and understand market behavior.
