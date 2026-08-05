@@ -18,8 +18,6 @@ author_profile: true
 
 ## Working in Progress
 ---
-* 住房情绪与房地产市场“止跌回稳”：社交媒体大数据视角下的机理与政策模拟
-
 * Fixed-K Orthonormal Series HAR Tests under Nonstationarity
 
    -<font size=3>Presented at 2nd ICES, Harbin, China, 2025</font>
