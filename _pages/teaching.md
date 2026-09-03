@@ -8,7 +8,7 @@ author_profile: true
 ## Teaching
 ---
 ### Postgraduate courses
-* Advanced Econometrics | Huazhong University of Science and Technology[[Slide1]](/files/unit root topic.pdf) [[Slide2]](/files/FF5_with_Bubbles.pdf) [[Slide3]](/files/我国货币政策逆周期调节的实证证据与建议.pdf)
+* Advanced Econometrics | Huazhong University of Science and Technology[[Slide1]](/files/unit root topic.pdf) [[Slide2]](/files/FF5_with_Bubbles.pdf) [[Slide3]](/files/我国货币政策逆周期调节的实证证据与建议.pdf) | Autumn 2022-2023
 
 ## Ad-hoc Referee
 ---
